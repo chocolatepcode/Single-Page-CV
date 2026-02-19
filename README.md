@@ -127,7 +127,7 @@ This is a static HTML file that can be deployed anywhere:
 
 ## Credits
 
-This project was created as part of a frontend development learning roadmap, focusing on semantic HTML and best practices for CV/resume websites.
+This project was created as part of a frontend development learning roadmap (https://roadmap.sh/projects/single-page-cv), focusing on semantic HTML and best practices for CV/resume websites.
 
 ## License
 
